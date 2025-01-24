@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/mike/source/repos/C++/Cards/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe   -g -o CMakeFiles\\Cards.dir\\Card.cpp.obj -c C:\\Users\\mike\\source\\repos\\C++\\Cards\\Card.cpp",
+  "file": "C:/Users/mike/source/repos/C++/Cards/Card.cpp",
+  "output": "CMakeFiles/Cards.dir/Card.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/mike/source/repos/C++/Cards/build/CMakeFiles/Cards.dir
+C:/Users/mike/source/repos/C++/Cards/build/CMakeFiles/edit_cache.dir
+C:/Users/mike/source/repos/C++/Cards/build/CMakeFiles/rebuild_cache.dir
